@@ -4,7 +4,7 @@ Purely functional data structures
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/deterministic-arts/DartsCLHashTree.git   |
-| commit  | 9751c05  |
+| commit  | 4414f64  |
 | systems | DartsCLHashTree |
 |---------+-------------------------------------------|
 
