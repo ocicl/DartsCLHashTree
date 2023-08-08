@@ -2,9 +2,8 @@
 
 Purely functional data structures
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/deterministic-arts/DartsCLHashTree.git   |
-| commit  | 4414f64  |
-| systems | DartsCLHashTree |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------------------|
+| source  | git:https://github.com/deterministic-arts/DartsCLHashTree.git |
+| commit  | 4414f64                                                       |
+| systems | darts.lib.hashtrie darts.lib.wbtree                           |
+|---------+---------------------------------------------------------------|
